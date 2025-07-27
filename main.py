@@ -3,8 +3,9 @@ import time
 import random
 
 # Telegram Bot Token
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
+TOKEN = "HTTP API:
+8081619949:AAGI-Vep5vNLDdcgE0ZDvTZftfpx5DdP2Cg"
+CHAT_ID = "1688402340"
 
 bot = telebot.TeleBot(TOKEN)
 
